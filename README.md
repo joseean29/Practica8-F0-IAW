@@ -1,5 +1,5 @@
 # Practica8-IAW
-##Fase 0. Instalación de Wordpress en un nivel (Un único servidor con todo lo necesario).
+## Fase 0. Instalación de Wordpress en un nivel (Un único servidor con todo lo necesario).
 Antes de instalar nada lo que hacemos es declarar las variables que mas tarde usaremos al principio del script.
 
 Instalamos Apache, MySQL, PHP, phpMyAdmin.
