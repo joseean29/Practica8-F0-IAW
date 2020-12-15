@@ -53,7 +53,7 @@ apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y
 #---------------------
 #INSTALACIÓN WORDPRESS|
 #---------------------
-#vVamos al directorio al que se instalará
+#Vamos al directorio al que se instalará
 cd /var/www/html
 
 #Descargamos la última versión de Wordpress que hay disponible
